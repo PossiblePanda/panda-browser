@@ -1,1 +1,1 @@
-# panda-browser
+How to install:
